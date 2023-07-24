@@ -13,6 +13,7 @@ K instalaci zadejte příkaz:
 
 # Spuštění skriptu
 Soubor Election_scraper je třeba spustit pomocí příkazové řádky a zadat dva povinné argumenty
-např. python Election_scraper.py "url_adresa_uzemniho_celku" "jmeno_souboru.csv"
+např.: 
+> python Election_scraper.py "url_adresa_uzemniho_celku" "jmeno_souboru.csv"
 
 volební výsledky z vybraného odkazu se poté uloží do csv souboru
