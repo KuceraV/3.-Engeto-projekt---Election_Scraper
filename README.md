@@ -8,6 +8,7 @@ Skript vybere jakýkoliv územní celek z daného odkazu (https://volby.cz/pls/p
 Knihovny potřebné ke spuštění tohoto projektu je možné nainstalovat do virtuálního prostředí ze souboru requirements.txt.
 K instalaci zadejte příkaz:
 > pip --version # ověří verzi pip manažeru
+
 > pip install -r requirements.txt # nainstaluje knihovny z listu requirements.txt
 
 # Spuštění skriptu
