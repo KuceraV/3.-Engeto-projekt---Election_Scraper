@@ -1,3 +1,11 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie - Election Scraper
+author: Vojtech Kucera
+email: vojtechkuc@gmail.com
+discord: Vojta K.
+"""
+
+
 import requests
 from bs4 import BeautifulSoup as bs
 import csv
